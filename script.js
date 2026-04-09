@@ -1,1 +1,2 @@
-console.log("これからよろしくお願いします。")
+console.log("Nice to meet you.")
+// TODO: なんか追加
