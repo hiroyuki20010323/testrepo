@@ -1,1 +1,1 @@
-console.log("Welcome to the Login Page!");
+console.log("ログインページへようこそ!");
